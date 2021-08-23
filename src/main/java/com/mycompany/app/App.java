@@ -1,12 +1,12 @@
 package com.mycompany.app;
 
 /**
- * Hello world PULL Request!
+ * Hello world!
  */
 public class App
 {
 
-    private final String message = "Hello World PULL Request!";
+    private final String message = "Hello World!";
 
     public App() {}
 
