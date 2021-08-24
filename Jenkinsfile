@@ -33,7 +33,7 @@ pipeline {
                             artifactId: 'my-app', 
                             classifier: '', 
                             file: 'target/my-app-1.0.0.jar', 
-                            type: 'war'
+                            type: 'jar'
                         ]
                     ], 
                     credentialsId: '1314288f-e205-445b-a56c-dce2cf3f28dd', 
