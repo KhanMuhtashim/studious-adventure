@@ -32,7 +32,7 @@ pipeline {
                         [
                             artifactId: 'my-app', 
                             classifier: '', 
-                            file: 'target/my-app-1.0.0.war', 
+                            file: 'target/my-app-1.0.0.jar', 
                             type: 'war'
                         ]
                     ], 
