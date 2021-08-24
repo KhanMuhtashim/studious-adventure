@@ -38,7 +38,7 @@ pipeline {
                     ], 
                     credentialsId: '1314288f-e205-445b-a56c-dce2cf3f28dd', 
                     groupId: 'com.mycompany.app', 
-                    nexusUrl: 'http://54.83.73.70:8081', 
+                    nexusUrl: '54.83.73.70:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
                     repository: 'simpleapp-release', 
